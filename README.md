@@ -13,9 +13,12 @@ I create blog posts and open source project mainly about robotics and machine le
 
 
 - 👀 I have carrier in Web Development, Dev Ops and Cyber Security
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Project
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on Robo Project
 - 📫 How to reach me, rafiathallah.engg@gmail.com
+
+---
+[![Rafi's github stats](https://github-readme-stats.vercel.app/api?username=athallahrafi&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 athallahrafi/athallahrafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
