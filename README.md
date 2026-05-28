@@ -56,34 +56,20 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```javascript
-// Profile_of_Rafi
-
-const student = {
-  name: "Rafi Athallah",
-  university: "Universitas Ahmad Dahlan",
-  major: "Teknik Elektro",
-  team: "Al-Jazari Robotics (KRSRI)",
-  status: "Undergraduate Student",
-  focus: ["Robot Vision", "Inverse Kinematics", "ROS System"],
-  achievements: [
-    "Juara 3 Cyber Security (Provinces)", 
-    "Juara 1 Cloud Computing (City)"
-  ]
-};
-
 const techStack = {
   web: ["PHP (Laravel, CI)", "Node.js", "Next.js", "Vue", "React", "TS/JS"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
-  robotics: ["ROS", "Python", "C++", "OpenCV", "PCL", "Intel RealSense D405"],
+  robotics: ["ROS", "Python", "C++", "OpenCV", "PCL", "Open3D","Intel RealSense"],
   cloud: ["AWS (Solutions Architect)"],
   devops: ["Docker", "Linux", "Git"]
 };
-
+```
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently diving deep into ROS (Robot Operating System) and Inverse Kinematics for robot gait control. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I love exploring Computer Vision and Point Cloud Processing using PCL. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Robot Vision, ROS Navigation, or Fullstack Web Dev. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: Rafi Athallah<br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: Debugging a robot's inverse kinematics is like solving a puzzle, but the robot is judging you in real-time! 🤖🔧<br>
+  
   <div align="center" > <a href="https://github.com/athallahrafi"> <!-- Profile Summary Cards --> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
 Code & Robot Cycle<br>
 
