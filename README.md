@@ -1,21 +1,22 @@
 <div align="center" width="50">
-
 <!-- Avatar/Greeting Image -->
-<img src="https://github.com/athallahrafi/athallahrafi/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/athallahrafi" alt="Hello Future Roboticist" width="60%"/> <br>
 <!-- Workspace Image -->
-<img src="https://github.com/athallahrafi/athallahrafi/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/athallahrafi" alt="Lab & Workspace"  width="40%"/><br> 
+  
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify?bg_color=000000&accent_color=00ffff)](https://open.spotify.com/user/31sbc2wm3vsr2fpoubsyko2dqs7u?si=6fb29967889342e3)
+  <details>
+    <summary><strong>Busy coding & Debugging Robot :</strong></summary>
+    <br>
+    <br>
+  </details>
+  
+  <br>
 
-<details>
-<p><strong> <summary>  Busy coding & Debugging Robot :   </summary> </strong></p>
-
-<!-- Ganti link Spotify di bawah dengan ID Spotify Anda, atau hapus baris ini jika tidak ingin ditampilkan -->
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify?bg_color=000000&accent_color=00ffff)](https://open.spotify.com/user/your-spotify-id) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=athallahrafi&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fathallahrafi&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-<!-- Ganti link Telegram di bawah dengan username Telegram Anda (contoh: https://t.me/rafi_tech) -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=athallahrafi&style=flat&color=orange&label=PROFILE+VIEWS" alt="Totals Hits" />
+    
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fathallahrafi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
+  </div>
+  <!-- Ganti link Telegram di bawah dengan username Telegram Anda (contoh: https://t.me/rafi_tech) -->
 [![telegram badge](https://img.shields.io/badge/Rafi-grey?style=flat&logo=telegram)](https://t.me/username_anda) <br>
 </div>
 
@@ -69,8 +70,16 @@ const techStack = {
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Robot Vision, ROS Navigation, or Fullstack Web Dev. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: Rafi Athallah<br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: Debugging a robot's inverse kinematics is like solving a puzzle, but the robot is judging you in real-time! 🤖🔧<br>
+
+<div align="center" >
+
+[![](https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/main/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/main/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/main/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   
-  <div align="center" > <a href="https://github.com/athallahrafi"> <!-- Profile Summary Cards --> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/athallahrafi/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
+<hr></hr>
+ 
 Code & Robot Cycle<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Robot stuck!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's moving!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works, but how?!"/><br> </div>
