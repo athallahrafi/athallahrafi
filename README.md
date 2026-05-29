@@ -14,7 +14,7 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=athallahrafi&style=flat&color=orange&label=PROFILE+VIEWS" alt="Totals Hits" />
 
-[![telegram badge](https://img.shields.io/badge/Rafi-grey?style=flat&logo=telegram)](https://t.me/username_anda) <br>
+[![telegram badge](https://img.shields.io/badge/Rafi-grey?style=flat&logo=telegram)](https://t.me/rafiathallahme) <br>
   </div>
   <!-- Ganti link Telegram di bawah dengan username Telegram Anda (contoh: https://t.me/rafi_tech) -->
   
@@ -28,45 +28,73 @@
 <!-- BADGE STACK: Web Dev (PHP & JS Ecosystem) -->
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%EF4423.svg?style=flat&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EE4326.svg?style=flat&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-<!-- BADGE STACK: Robotics (Al-Jazari Team) -->
-![ROS](https://img.shields.io/badge/ROS-%2300ADD8.svg?style=flat&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%2335495e.svg?style=flat&logo=open-cv&logoColor=white)
-![PCL](https://img.shields.io/badge/Point%20Cloud%20Library-%2300ADD8.svg?style=flat&logoColor=white)
-![Realsense](https://img.shields.io/badge/Intel-RealSense-%F6B200.svg?style=flat&logo=intel&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-%2322314E.svg?style=flat&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-%2300ADD8.svg?style=flat&logo=open3d&logoColor=white)
+![Intel RealSense](https://img.shields.io/badge/Intel_RealSense-%230071C5.svg?style=flat&logo=intel&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%2300BFFF.svg?style=flat&logo=ultralytics&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
 
-<!-- BADGE STACK: Cloud & DevOps -->
-![AWS](https://img.shields.io/badge/Amazon_AWS-%232F4F4F?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-
-<!-- Database -->
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316191.svg?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD3631.svg?style=flat&logo=redis&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
 
 ```javascript
 const techStack = {
-  web: ["PHP (Laravel, CI)", "Node.js", "Next.js", "Vue", "React", "TS/JS"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  robotics: ["ROS", "Python", "C++", "OpenCV", "PCL", "Open3D","Intel RealSense"],
-  cloud: ["AWS (Solutions Architect)"],
-  devops: ["Docker", "Linux", "Git"]
+  web: [
+    "PHP (Laravel, CodeIgniter)", 
+    "Node.js", 
+    "Next.js", 
+    "Vue.js", 
+    "TypeScript", 
+    "JavaScript"
+  ],
+  databases: [
+    "MongoDB", 
+    "PostgreSQL", 
+    "Redis"
+  ],
+  robotics: [
+    "ROS", 
+    "Python", 
+    "C++", 
+    "OpenCV", 
+    "Open3D", 
+    "Intel RealSense", 
+    "YOLO", 
+    "TensorFlow", 
+    "Arduino IDE"
+  ],
+  cloud: [
+    "Amazon AWS"
+  ],
+  devops: [
+    "Docker", 
+    "Linux", 
+    "Git"
+  ],
+  hardware: [
+    "Raspberry Pi", 
+    "NVIDIA Jetson"
+  ]
 };
 ```
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently diving deep into ROS (Robot Operating System) and Inverse Kinematics for robot gait control. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I love exploring Computer Vision and Point Cloud Processing using PCL. <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I love exploring Computer Vision and Point Cloud Processing using o3d. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Robot Vision, ROS Navigation, or Fullstack Web Dev. <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: Rafi Athallah<br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: Debugging a robot's inverse kinematics is like solving a puzzle, but the robot is judging you in real-time! 🤖🔧<br>
