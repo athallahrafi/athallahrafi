@@ -56,44 +56,18 @@
 </div>
 
 ```javascript
-const techStack = {
-  web: [
-    "PHP (Laravel, CodeIgniter)", 
-    "Node.js", 
-    "Next.js", 
-    "Vue.js", 
-    "TypeScript", 
-    "JavaScript"
-  ],
-  databases: [
-    "MongoDB", 
-    "PostgreSQL", 
-    "Redis"
-  ],
-  robotics: [
-    "ROS", 
-    "Python", 
-    "C++", 
-    "OpenCV", 
-    "Open3D", 
-    "Intel RealSense", 
-    "YOLO", 
-    "TensorFlow", 
-    "Arduino IDE"
-  ],
-  cloud: [
-    "Amazon AWS"
-  ],
-  devops: [
-    "Docker", 
-    "Linux", 
-    "Git"
-  ],
-  hardware: [
-    "Raspberry Pi", 
-    "NVIDIA Jetson"
-  ]
-};
+// tools_I_use organized
+
+class About extends Me { 
+  myTools = {  
+    "ProgrammingLanguages" : [ "Python", "C++", "TypeScript", "JavaScript", "PHP", "Node.js"],
+    "FrameworksAndLibraries": [ "ROS", "OpenCV", "Open3D", "YOLO", "TensorFlow", "Laravel", "CodeIgniter", "Next.js", "Vue.js" ],
+    "Databases"            : [ "PostgreSQL", "MongoDB", "Redis", "Firebase" ],
+    "HardwarePlatforms"    : [ "Raspberry Pi", "NVIDIA Jetson", "Intel RealSense", "Arduino IDE" ],
+    "OperatingSystems"     : [ "GNU/Linux", "Windows", "Mac" ],
+    "DesignAndDevOps"      : [ "Git", "Docker", "Amazon AWS"]
+  };
+}
 ```
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently diving deep into ROS (Robot Operating System) and Inverse Kinematics for robot gait control. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I love exploring Computer Vision and Point Cloud Processing using o3d. <br>
