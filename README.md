@@ -2,22 +2,22 @@
 <!-- Avatar/Greeting Image -->
 <!-- Workspace Image -->
   
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify?bg_color=000000&accent_color=00ffff)](https://open.spotify.com/user/31sbc2wm3vsr2fpoubsyko2dqs7u?si=6fb29967889342e3)
   <details>
     <summary><strong>Busy coding & Debugging Robot :</strong></summary>
-    <br>
-    <br>
+    
+[![Spotify](https://my-orchestrator.vercel.app/api/orchestrator?background_type=blur_dark)](https://open.spotify.com/user/31sbc2wm3vsr2fpoubsyko2dqs7u?si=6fb29967889342e3)
   </details>
+  
   
   <br>
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=athallahrafi&style=flat&color=orange&label=PROFILE+VIEWS" alt="Totals Hits" />
-    
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fathallahrafi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="Hits" />
+
+[![telegram badge](https://img.shields.io/badge/Rafi-grey?style=flat&logo=telegram)](https://t.me/username_anda) <br>
   </div>
   <!-- Ganti link Telegram di bawah dengan username Telegram Anda (contoh: https://t.me/rafi_tech) -->
-[![telegram badge](https://img.shields.io/badge/Rafi-grey?style=flat&logo=telegram)](https://t.me/username_anda) <br>
+  
 </div>
 
 <hr></hr>
