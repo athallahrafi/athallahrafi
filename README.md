@@ -21,6 +21,7 @@
 </div>
 
 <hr></hr>
+<div align="center">
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -52,6 +53,7 @@
 ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-%2376B900.svg?style=flat&logo=nvidia&logoColor=white)
+</div>
 
 ```javascript
 const techStack = {
